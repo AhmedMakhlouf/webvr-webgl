@@ -1,0 +1,10 @@
+var texture;
+var cubeRotation = 0.0;
+var model;
+var parsedModel;
+var gl;
+var shaderProgram;
+var programInfo;
+var models = [];
+var canvasWidth;
+var canvasHeight;
